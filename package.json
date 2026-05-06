@@ -5,8 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
+  },
+  "engines": {
+    "node": "^20.0.0"
   },
   "dependencies": {
     "react": "^18.2.0",
